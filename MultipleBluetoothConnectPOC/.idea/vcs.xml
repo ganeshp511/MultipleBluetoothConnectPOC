@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CommonES_New/commones/commones" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dubai_O_Release/commones" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commones" vcs="Git" />
+  </component>
+</project>
